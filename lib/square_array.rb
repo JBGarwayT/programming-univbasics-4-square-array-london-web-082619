@@ -6,5 +6,5 @@ def square_array(array)
   array2 << (array[counter]**2)
   counter += 1
 end
-  puts array2
+  return array2
 end
